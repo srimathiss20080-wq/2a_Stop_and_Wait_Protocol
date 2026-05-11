@@ -2,7 +2,7 @@
 
 ## NAME : SRIMATHI S
 ## REG NO : 212225230275
-##DATE : 11.5.2026
+## DATE : 11.5.2026
 
 ## AIM 
 To write a python program to perform stop and wait protocol
